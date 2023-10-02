@@ -19,7 +19,7 @@ Sou uma garota apaixonada por jogos, animes, séries e livros e estou me redesco
 
 
 
-Contato:
+#### Contato:
 
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
