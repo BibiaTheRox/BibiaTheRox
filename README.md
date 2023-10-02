@@ -10,7 +10,6 @@ Sou uma garota apaixonada por jogos, animes, séries e livros e estou me redesco
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/BibiaTheRox/)
 
-![alt text](image.jpg)
 
 
 ## Hard Skills:
