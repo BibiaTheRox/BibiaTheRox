@@ -1,6 +1,6 @@
 # Olá, pessoal 👋
 
-Meu nome é Bianca, mas todo mundo me chama de Bibia. Estou em transição de carreira.No momento recém finalizei um curso de desenvolvimento de software com foco em back-end pela Cubos Academy e agora estou fazendo um curso da One em parceria com a Alura focado em front-end.
+Meu nome é Bianca, mas todo mundo me chama de Bibia. Estou em transição de carreira. No momento recém finalizei um curso de desenvolvimento de software com foco em back-end pela Cubos Academy e agora estou fazendo um curso da One em parceria com a Alura focado em front-end.
 
 Sou uma garota apaixonada por jogos, animes, séries e livros e estou me redescobrindo no mundo da programação.
 
